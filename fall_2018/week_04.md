@@ -7,6 +7,7 @@
 
 - Learn Mocha/Chai Testing Framework
 - Add Mocha/Chai boilerplate and `yarn test command`
+    - https://github.com/codingandcommunity/booster-read-projects-function/commit/333069cd66d068ade16dbcef781d66d4f18924b3
 
 I didn't actually get the chance to work with the Atom Plugin Team to refine the design yet, so this week's plan is the same as last week's plan. The work still needs to be done.
 
