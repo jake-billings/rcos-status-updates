@@ -6,10 +6,12 @@
 > Bug fixes, Features added, Links to Issues, Links to Pull-Requests, Lightning Talks, Bonus Sessions
 
 - Setup the code to run on AWS lambda - This took a significant amount of time and effort that is not reflected in the codebase.
+    - https://github.com/codingandcommunity/booster-read-projects-function/commit/f158961de2ef4d390b79a91ddb62e6fd0d6ca3fc
+    - https://github.com/codingandcommunity/booster-read-projects-function/commit/79d96fdee69bedbef04b397f4bd50fe7efc6c112
 - Create an AWS user
 - Setup AWS CLI
 - Setup ClaudiaJS
-- Deploy the first iteration of the lamda function
+- Deploy the first iteration of the lambda function
 
 I didn't actually get the chance to work with the Atom Plugin Team to refine the design yet, so this week's plan is the same as last week's plan. The work still needs to be done.
 
